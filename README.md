@@ -26,7 +26,7 @@ The project consists of the following functions:
 
 - find_extrinsic(img_coord: np.ndarray, world_coord: np.ndarray) -> Tuple[np.ndarray, np.ndarray]: This function calculates the extrinsic parameters (rotation matrix and translation vector) based on the image coordinates, world coordinates, and intrinsic parameters.
 
-To use these functions, import the necessary libraries and call the functions with the required input parameters. Check the test.py file for this.
+To use these functions, import the necessary libraries and call the functions with the required input parameters. 
 
 Please note that you need to provide the input image containing the checkerboard. The image should be in the BGR format.
 
