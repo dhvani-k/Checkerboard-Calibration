@@ -5,9 +5,10 @@ This project provides a set of functions to calibrate a camera using a checkerbo
 ## Requirements
 The following libraries are required to run the functions in this project:
 
-numpy
-cv2 (OpenCV)
-os
+* numpy
+* cv2 (OpenCV)
+* os
+
 Please make sure these libraries are installed before running the code.
 
 ## Usage
