@@ -1,4 +1,4 @@
-# Checkerboard-Calibration
+# Checkerboard Calibration Using OpenCV
 
 This project provides a set of functions to calibrate a camera using a checkerboard pattern. It includes functions to calculate the image coordinates of the checkerboard corners, find the world coordinates of the corners, estimate the intrinsic parameters (focal length and principal point), and calculate the extrinsic parameters (rotation matrix and translation vector).
 
